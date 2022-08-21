@@ -1,0 +1,14 @@
+scipy
+scikit-image
+torchvision
+numpy
+matplotlib
+lmdb
+opencv-python-headless
+openpyxl
+einops
+pyrtools
+pytorch-msssim
+IQA-pytorch
+psnr_hvsm
+ptflops==0.6.5
